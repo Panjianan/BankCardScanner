@@ -2,6 +2,10 @@
 扫描银行卡号
 [![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)[ ![Download](https://api.bintray.com/packages/tsubasap91/maven/bankcardscanner/images/download.svg) ](https://bintray.com/tsubasap91/maven/bankcardscanner/_latestVersion)
 
+![image.png](http://upload-images.jianshu.io/upload_images/1712960-5a34eb0668762196.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](http://upload-images.jianshu.io/upload_images/1712960-6db43a009eb2b079.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 # How do I use it?
 
 ## Step 1
