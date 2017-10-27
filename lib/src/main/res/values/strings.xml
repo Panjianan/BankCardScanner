@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BankcardScanner</string>
+    <string name="cannot_open_camera">无法打开相机</string>
+</resources>
